@@ -31,13 +31,14 @@ main: #简历主要内容，
   name: Education #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: Imperial College London
-    duration: "Oct 2021 - Oct 2022"
-    sub: London, United Kindom
+    duration: Oct 2021 - Oct 2022
+    sub: London, United Kingdom
     # detail: MSc in Control and Optimisation  GPA 82.5/100, Distinction (Expected) 
+    detail:
       md: _data/edu1.md
   - title: City, University of London
     duration: Sep 2019-July 2021
-    sub: London, United Kindom
+    sub: London, United Kingdom
     detail: BEng in Electrical and Electronic Engineering (Avionics and Control) (Joint-Degree)  GPA 89.44/100 (Ranked Top 1% among cohort), First Degree with Honors
 
   - title: Nanjing University of Aeronautics and Astronautics (NUAA)
