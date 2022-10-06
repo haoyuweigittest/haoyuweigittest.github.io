@@ -1,0 +1,3 @@
+- Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory.
+- Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. 
+- Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.

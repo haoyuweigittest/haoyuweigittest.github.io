@@ -1,0 +1,1 @@
+- Implemented nonlinear equations to approximate piecewise linear functions, lowering algorithm complexity; Resulting in maximum efficiency (5%) of the hydroelectric power plant based on an optimal operational framework for the hydroelectric power system.

@@ -1,0 +1,2 @@
+- Designed operational framework (CAD model) for drones flying through corridors with retractable brackets. 
+- Derived mathematical model and applied adaptive sliding mode controller to aerial manipulators, copying with system gravity centre slide and Inertia moment change successfully; Simulated whole dynamic system in MATLAB and Simulink, verifying the system stability and controller efficiency.

@@ -1,0 +1,2 @@
+- Built precise URDF model for the UAV with SolidWorks and Gazebo based on XML format language setting a solid foundation for further simulation in PC; Captured drone position data with Motion Capture Systems. 
+- Constructed and controlled quadrotor physically to fly steadily with PID algorithms based on Pixhawk.
