@@ -1,2 +1,2 @@
 - BEng in Electrical and Electronic Engineering (Avionics and Control) (Joint-Degree)
-- GPA **89.44/100** (Ranked Top 1% among cohort), First Degree with Honors
+- **GPA**： 89.44/100 (Ranked Top **1%** among cohort), First Degree with Honors
