@@ -15,10 +15,10 @@ contact: #联系方式连接等3~5行
 - text: "(+44) (0)7529-814-539"
   href: 'tel:(+44) (0)7529-814-539'
   icon: 'icons/phone.svg'
-- text: "Linkedin:KuiXie"
+- text: "Linkedin:kui-xie"
   href: 'https://linkedin.com/in/kui-xie'
   icon: 'icons/linkedin.svg'
-- text: "Github:KuiXie"
+- text: "Github:QuinnXie"
   href: 'https://github.com/QuinnXie'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
