@@ -62,7 +62,9 @@ main: #简历主要内容，
     tags:
     #- 标签
     summary: Summary your job or work. (Collapse)
-    detail: Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory. Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.
+    # detail: Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory. Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.
+    detail:
+      md: _data/resexp1.md
     open: open
     #可以设置open默认展开
   - title: Research Intern in Autonomous System Lab
@@ -71,7 +73,9 @@ main: #简历主要内容，
     tags: 
     #- tagname
     summary: Summary your job or work. (Collapse)
-    detail: Built precise URDF model for the UAV with SolidWorks and Gazebo based on XML format language setting a solid foundation for further simulation in PC; Captured drone position data with Motion Capture Systems. Constructed and controlled quadrotor physically to fly steadily with PID algorithms based on Pixhawk. 
+    # detail: Built precise URDF model for the UAV with SolidWorks and Gazebo based on XML format language setting a solid foundation for further simulation in PC; Captured drone position data with Motion Capture Systems. Constructed and controlled quadrotor physically to fly steadily with PID algorithms based on Pixhawk. 
+    detail:
+      md: _data/resexp2.md
     open: open
 
   - title: Design, Modelling, Stability Analysis and Control of Hexacopter
@@ -80,7 +84,9 @@ main: #简历主要内容，
     tags: 
     #- tagname
     summary: Summary your job or work. (Collapse)
-    detail: Designed operational framework (CAD model) for drones flying through corridors with retractable brackets. Derived mathematical model and applied adaptive sliding mode controller to aerial manipulators, copying with system gravity centre slide and Inertia moment change successfully; Simulated whole dynamic system in MATLAB and Simulink, verifying the system stability and controller efficiency.
+    # detail: Designed operational framework (CAD model) for drones flying through corridors with retractable brackets. Derived mathematical model and applied adaptive sliding mode controller to aerial manipulators, copying with system gravity centre slide and Inertia moment change successfully; Simulated whole dynamic system in MATLAB and Simulink, verifying the system stability and controller efficiency.
+    detail:
+      md: _data/resexp3.md
     open: open
 
   - title: Research Intern in System and Control Research Centre
@@ -89,7 +95,9 @@ main: #简历主要内容，
     tags: 
     #- tagname
     summary: Summary your job or work. (Collapse)
-    detail: Implemented nonlinear equations to approximate piecewise linear functions, lowering algorithm complexity; Resulting in maximum efficiency (5%) of the hydroelectric power plant based on an optimal operational framework for the hydroelectric power system.
+    # detail: Implemented nonlinear equations to approximate piecewise linear functions, lowering algorithm complexity; Resulting in maximum efficiency (5%) of the hydroelectric power plant based on an optimal operational framework for the hydroelectric power system.
+    detail:
+      md: _data/resexp4.md
     open: open
 
 
