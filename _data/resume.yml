@@ -53,10 +53,8 @@ main: #简历主要内容，
     duration: May 2022 - Sep 2022
     tags:
     #- 标签
-    # summary: Summary your job or work. (Collapse)
-    # detail: 
-    list: 
-    - Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory. Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.
+    summary: Summary your job or work. (Collapse)
+    detail: Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory. Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.
     open: open
     #可以设置open默认展开
   - title: Research Intern in Autonomous System Lab
@@ -149,22 +147,22 @@ main: #简历主要内容，
 
 
 #others 其他简略内容(列表)
-others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
-  content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+# others: #其他列表显示
+# - type: others #ID可以为空
+#   name: '其他'
+#   content: #选择需要的格式
+#   - 单行文字
+#   - title: "加粗:"
+#     text: "列表项二"
+#   - title: "兴趣:"
+#     items: #单行列表
+#     - 睡觉
+#     - 吃饭
+#     - coding
+#   - title: 列表
+#     list:
+#     - 第一项
+#     - 第二项
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
@@ -175,10 +173,10 @@ others: #其他列表显示
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
-  - text: "简历脚注"
+  - text: ""
   #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: "Kui Xie CV"
+    href: "mailto:kui.xie21@imperial.ac.uk"
 
 #页面额外js脚本，如xx统计
 scripts:
