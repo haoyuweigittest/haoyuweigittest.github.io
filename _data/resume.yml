@@ -33,9 +33,7 @@ main: #简历主要内容，
   - title: Imperial College London
     duration: "Oct 2021 - Oct 2022"
     sub: London, United Kindom
-    list:
-    - MSc in Control and Optimisation  GPA 82.5/100, Distinction (Expected)
-    # detail: MSc in Control and Optimisation  GPA 82.5/100, Distinction (Expected) 
+    detail: MSc in Control and Optimisation  GPA 82.5/100, Distinction (Expected) 
   - title: City, University of London
     duration: Sep 2019-July 2021
     sub: London, United Kindom
@@ -126,7 +124,9 @@ main: #简历主要内容，
   name: "Languages, Skills, Awards & Interests"
   content:
   - title: Languages
-    summary: Proficient in English, Native in Madarin
+    items: 
+    - English (Proficient) 
+    - Mandarin (Native)
   - title: Technical Skills
     items: #itmems 可以小块的方式显示
     - Julia 
