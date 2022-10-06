@@ -53,8 +53,8 @@ main: #简历主要内容，
     duration: May 2022 - Sep 2022
     tags:
     #- 标签
-    summary: Summary your job or work. (Collapse)
-    detail: 
+    # summary: Summary your job or work. (Collapse)
+    # detail: 
     list: 
     - Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory. Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.
     open: open
