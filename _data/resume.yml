@@ -33,7 +33,9 @@ main: #简历主要内容，
   - title: Imperial College London
     duration: "Oct 2021 - Oct 2022"
     sub: London, United Kindom
-    detail: MSc in Control and Optimisation  GPA 82.5/100, Distinction (Expected) 
+    list:
+    - MSc in Control and Optimisation  GPA 82.5/100, Distinction (Expected)
+    # detail: MSc in Control and Optimisation  GPA 82.5/100, Distinction (Expected) 
   - title: City, University of London
     duration: Sep 2019-July 2021
     sub: London, United Kindom
@@ -173,9 +175,9 @@ main: #简历主要内容，
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
-  - text: ""
+  - text: "CV"
   #   href: '/'
-  - text: "Kui Xie CV"
+  - text: "Kui Xie"
     href: "mailto:kui.xie21@imperial.ac.uk"
 
 #页面额外js脚本，如xx统计
