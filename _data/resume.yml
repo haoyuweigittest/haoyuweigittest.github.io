@@ -88,8 +88,8 @@ main: #简历主要内容，
 - type: experience
   name: Leadership Experience & Competitions
   content:
-  - title: Team Leader of Final Round Team (National Gold Award)
-    sub: The 6th China College Students’ “Internet+” Innovation and Start-up Competition
+  - title: The 6th China College Students’ “Internet+” Innovation and Start-up Competition 
+    sub: Team Leader of Final Round Team (National Gold Award)
     duration: Jun 2020 - Nov 2020
     tags:
     #- 标签
@@ -97,8 +97,8 @@ main: #简历主要内容，
     detail: Led team’s efforts to mock the startup of a sonar sales company; Simulation results achieved National Level Competition Gold Award} and demonstrated solid commercial feasibility based on reviewers' feedback.
     open: open
     #可以设置open默认展开
-  - title: Team Leader of East China Winning Team
-    sub: The 14th National College Students “NXP” Cup Intelligent Car Competition  
+  - title: he 14th National College Students “NXP” Cup Intelligent Car Competition  
+    sub: Team Leader of East China Winning TeamT
     duration: Oct 2018 - Aug 2019
     tags: 
     #- tagname
