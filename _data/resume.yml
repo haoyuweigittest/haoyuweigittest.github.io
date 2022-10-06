@@ -44,16 +44,6 @@ main: #简历主要内容，
     detail: BEng in Automation Engineering (Avionics and Control) (Joint-Degree) GPA 90.0/100 (Ranked Top 5% among cohort).  Award Dean's List of Outstanding Academic 
 
 
-- type: skills
-  # name: "技能"
-  content:
-  - title: 编程语言
-    items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
 
 - type: experience
   name: Research Experience
@@ -63,8 +53,8 @@ main: #简历主要内容，
     duration: May 2022 - Sep 2022
     tags:
     #- 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory. Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.
+    summary: Summary your job or work. (Collapse)
+    detail: list: - Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory. Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.
     open: open
     #可以设置open默认展开
   - title: Research Intern in Autonomous System Lab
@@ -95,19 +85,66 @@ main: #简历主要内容，
     open: open
 
 
-- type: projects
-  name: Projects
+- type: experience
+  name: Leadership Experience & Competitions
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+  - title: Team Leader of Final Round Team (National Gold Award)
+    sub: The 6th China College Students’ “Internet+” Innovation and Start-up Competition
+    duration: Jun 2020 - Nov 2020
+    tags:
+    #- 标签
+    summary: Summary your job or work. (Collapse)
+    detail: Led team’s efforts to mock the startup of a sonar sales company; Simulation results achieved National Level Competition Gold Award} and demonstrated solid commercial feasibility based on reviewers' feedback.
+    open: open
+    #可以设置open默认展开
+  - title: Team Leader of East China Winning Team
+    sub: The 14th National College Students “NXP” Cup Intelligent Car Competition  
+    duration: Oct 2018 - Aug 2019
+    tags: 
+    #- tagname
+    summary: Summary your job or work. (Collapse)
+    detail: Led a team to design an intelligent three-wheeled vehicle controlled by PID algorithms, successfully making it two-wheeled upright and with long-term stability, awarded Winning Prize in East China Region.Designed printed-circuit boards of electromagnetic sensors by utilizing digital circuit analogue knowledge and lower signal noise generated from sensors by using Kalman filtering.
+    open: open
+
+# - type: projects
+#   name: Projects
+#   content:
+#   - title: 项目名称
+#     duration: xxxx年xx月 - yyyy年yy月
+#     detail: 项目和工作介绍，项目总结.
+#     sub: 维护者
+#   - title: Project Name
+#     summary: Projects' introduction or summary
+#     detail:
+#       md: _data/demo.md
+#     sub: Creator and maintainer.
    #可继续添加更多内容
+
+- type: skills
+  name: "Languages, Skills, Awards & Interests"
+  content:
+  - title: Languages
+    summary: Proficient in English, Native in Madarin
+  - title: Technical Skills
+    items: #itmems 可以小块的方式显示
+    - Julia 
+    - MATLAB 
+    - Simulink 
+    - C 
+    - Python 
+    - ROS
+  - title: Awards
+    items: #itmems 可以小块的方式显示
+    - 2018-2019 Outstanding Academic Scholarship, NUAA  
+    - 2018-2019 Outstanding Student Scholarship, NUAA  
+    - 2017-2018 Outstanding Academic Scholarship, NUAA 
+    - 2017-2018 Outstanding Student Scholarship, NUAA 
+  - title: Interests
+    items: #itmems 可以小块的方式显示
+    - Chess 
+    - Hiking 
+    - Cooking 
+
 
 #others 其他简略内容(列表)
 others: #其他列表显示
