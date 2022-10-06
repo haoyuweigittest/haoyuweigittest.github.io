@@ -56,24 +56,24 @@ main: #简历主要内容，
     summary: Consectetur, Adipiscing, Elit
 
 - type: experience
-  name: 经验
+  name: Research Experience
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: ynamic Optimization in the Julia Programming Language
+    sub: MSc individual research project in Imperial College London
+    duration: May 2022 - Sep 2022
     tags:
-    - 标签
+    #- 标签
     summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
-    # open: open
+    detail: Solved dynamic optimization problem based on direct collocation methods in Julia to find optimal trajectory. Minimized integrated residuals lower to 1e-6 with mesh refinement methods, Minimax Error, Bisection, etc. Provided novel methods, warm start and early termination, reducing algorithm running time up to 40%.
+    open: open
     #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
+  - title: Research Intern in Autonomous System Lab
+    sub: City, University of London  
+    duration: Jul 2021-Sep 2021
     tags: 
-    - tagname
+    #- tagname
     summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    detail: Built precise URDF model for the UAV with SolidWorks and Gazebo based on XML format language setting a solid foundation for further simulation in PC; Captured drone position data with Motion Capture Systems. Constructed and controlled quadrotor physically to fly steadily with PID algorithms based on Pixhawk. 
 
 - type: projects
   name: Projects
