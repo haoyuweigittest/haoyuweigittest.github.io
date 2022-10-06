@@ -1,2 +1,3 @@
 - BEng in Automation Engineering (Avionics and Control) (Joint-Degree)
-- GPA **90.0/100** (Ranked Top 5% among cohort).  Award Dean's List of Outstanding Academic 
+- GPA **90.0/100** (Ranked Top 5% among cohort).  
+- Award Dean's List of Outstanding Academic 
