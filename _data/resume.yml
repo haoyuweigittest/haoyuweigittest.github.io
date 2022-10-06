@@ -17,7 +17,7 @@ contact: #联系方式连接等3~5行
   icon: 'icons/phone.svg'
 - text: "Linkedin:KuiXie"
   href: 'https://linkedin.com/in/kui-xie'
-  icon: 'icons/web.svg'
+  icon: 'icons/linkedin.svg'
 - text: "Github:KuiXie"
   href: 'https://github.com/QuinnXie'
   icon: "icons/github.svg"
@@ -33,11 +33,16 @@ main: #简历主要内容，
   - title: Imperial College London
     duration: "Oct 2021 - Oct 2022"
     sub: London, United Kindom
-    detail: MSc in Control and Optimisation  GPA: <strong> 82.5/100, Distinction (Expected) 
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
+    detail: MSc in Control and Optimisation  GPA 82.5/100, Distinction (Expected) 
+  - title: City, University of London
+    duration: Sep 2019-July 2021
+    sub: London, United Kindom
+    detail: BEng in Electrical and Electronic Engineering (Avionics and Control) (Joint-Degree)  GPA 89.44/100 (Ranked Top 1% among cohort), First Degree with Honors
+  - title: Nanjing University of Aeronautics and Astronautics (NUAA)
+    duration: Sep 2017 - July 2019
+    sub: Nanjing, China
+    detail: BEng in Automation Engineering (Avionics and Control) (Joint-Degree) GPA 90.0/100 (Ranked Top 5% among cohort).  Award Dean's List of Outstanding Academic 
+
 
 - type: skills
   # name: "技能"
