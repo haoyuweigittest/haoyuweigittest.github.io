@@ -58,7 +58,7 @@ main: #简历主要内容，
 - type: experience
   name: Research Experience
   content:
-  - title: ynamic Optimization in the Julia Programming Language
+  - title: Dynamic Optimization in the Julia Programming Language
     sub: MSc individual research project in Imperial College London
     duration: May 2022 - Sep 2022
     tags:
@@ -68,12 +68,32 @@ main: #简历主要内容，
     open: open
     #可以设置open默认展开
   - title: Research Intern in Autonomous System Lab
-    sub: City, University of London  
-    duration: Jul 2021-Sep 2021
-    tags: 
-    #- tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Built precise URDF model for the UAV with SolidWorks and Gazebo based on XML format language setting a solid foundation for further simulation in PC; Captured drone position data with Motion Capture Systems. Constructed and controlled quadrotor physically to fly steadily with PID algorithms based on Pixhawk. 
+      sub: City, University of London  
+      duration: Jul 2021-Sep 2021
+      tags: 
+      #- tagname
+      summary: Summary your job or work. (Collapse)
+      detail: Built precise URDF model for the UAV with SolidWorks and Gazebo based on XML format language setting a solid foundation for further simulation in PC; Captured drone position data with Motion Capture Systems. Constructed and controlled quadrotor physically to fly steadily with PID algorithms based on Pixhawk. 
+      open: open
+
+  - title: Design, Modelling, Stability Analysis and Control of Hexacopter
+      sub: BEng individual research project in City, University of London
+      duration: Jul 2020-Jun 2021
+      tags: 
+      #- tagname
+      summary: Summary your job or work. (Collapse)
+      detail: Designed operational framework (CAD model) for drones flying through corridors with retractable brackets. Derived mathematical model and applied adaptive sliding mode controller to aerial manipulators, copying with system gravity centre slide and Inertia moment change successfully; Simulated whole dynamic system in MATLAB and Simulink, verifying the system stability and controller efficiency.
+      open: open
+
+  - title: Research Intern in System and Control Research Centre
+      sub: City, University of London
+      duration: Jun 2020 - Sep 2020
+      tags: 
+      #- tagname
+      summary: Summary your job or work. (Collapse)
+      detail: Implemented nonlinear equations to approximate piecewise linear functions, lowering algorithm complexity; Resulting in maximum efficiency (5%) of the hydroelectric power plant based on an optimal operational framework for the hydroelectric power system.
+      open: open
+
 
 - type: projects
   name: Projects
